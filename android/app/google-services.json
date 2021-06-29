@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207995945048",
+    "project_id": "notes-app-c6bbe",
+    "storage_bucket": "notes-app-c6bbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207995945048:android:04c242afdf6202ade58a2d",
+        "android_client_info": {
+          "package_name": "roarx.notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207995945048-8vh34m51tbsuj2hid4l35oiinebsrudm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC71aWyewhi8ffpQ6U-vrVJirabmyvfhQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207995945048-8vh34m51tbsuj2hid4l35oiinebsrudm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
